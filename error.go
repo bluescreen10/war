@@ -2,4 +2,4 @@ package main
 
 import "errors"
 
-var NotImplemented = errors.New("not implemented")
+var ErrNotImplemented = errors.New("not implemented")
